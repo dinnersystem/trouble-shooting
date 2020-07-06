@@ -5,6 +5,7 @@
 Restart nginx & php-fpm
 
 sudo systemctl restart nginx
+
 sudo systemctl restart php7.4-fpm
 
 # 當斷電時
